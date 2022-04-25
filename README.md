@@ -1,12 +1,12 @@
-# GoogleMapsAPI-Scanner
+# 1. GoogleMapsAPI-Scanner
 
 ~ It is a python automation tool that is used for determining whether a leaked/found Google Maps API Key is vulnerable to unauthorized access by other applications or not.
 
-#2. Download
+# 2. Download
 
 $ git clone https://github.com/Steiner-254/GoogleMapsAPI-Scanner
 
-#3. Usage
+# 3. Usage
 
 ~ Download maps_api_scanner.py file and run as: python maps_api_scanner.py & paste API key wanted to test when asked.
 
