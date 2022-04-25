@@ -20,27 +20,49 @@ $ git clone https://github.com/Steiner-254/GoogleMapsAPI-Scanner
 # APIs That Are Checked:
 
 Staticmap API
+
 Streetview API
+
 Embed (Basic-Free) API
+
 Embed (Advanced-Paid) API
+
 Directions API
+
 Geocode API
+
 Distance Matrix API
+
 Find Place From Text API
+
 Autocomplete API
+
 Elevation API
+
 Timezone API
+
 Roads API
+
 Geolocation API
+
 Route to Traveled API
+
 Speed Limit-Roads API
+
 Place Details API
+
 Nearby Search-Places API
+
 Text Search-Places API
+
 Places Photo API
+
 Playable Locations API
+
 FCM API
+
 Custom Search API
+
 JavaScript API
 
 
